@@ -1,0 +1,26 @@
+button{
+    height:50px;
+    width: 50px;
+    border-radius: 100px;
+    background-color:magenta;
+    margin-top: 10px;
+    color:  white;
+    font-size: large;
+}
+#input{
+    width: 299px;
+    height: 45px;
+    border: 2px solid ;
+    border-radius: 20px;
+}
+#block{
+    width: 100px;
+   
+    
+}
+body{
+    margin-left: 600px;
+}
+h2{
+    margin-left: 120px;
+}
